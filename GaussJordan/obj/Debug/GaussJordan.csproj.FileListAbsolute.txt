@@ -1,0 +1,8 @@
+C:\Users\Fekra\Desktop\windows_form\GaussJordan\GaussJordan\bin\Debug\GaussJordan.exe.config
+C:\Users\Fekra\Desktop\windows_form\GaussJordan\GaussJordan\bin\Debug\GaussJordan.exe
+C:\Users\Fekra\Desktop\windows_form\GaussJordan\GaussJordan\bin\Debug\GaussJordan.pdb
+C:\Users\Fekra\Desktop\windows_form\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csproj.AssemblyReference.cache
+C:\Users\Fekra\Desktop\windows_form\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fekra\Desktop\windows_form\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csproj.CoreCompileInputs.cache
+C:\Users\Fekra\Desktop\windows_form\GaussJordan\GaussJordan\obj\Debug\GaussJordan.exe
+C:\Users\Fekra\Desktop\windows_form\GaussJordan\GaussJordan\obj\Debug\GaussJordan.pdb
